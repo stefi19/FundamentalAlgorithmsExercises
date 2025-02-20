@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab5 - Hash tables\main.cpp(357,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab5 - Hash tables\main.cpp(357,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab5 - Hash tables\main.cpp(357,40): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab5 - Hash tables\main.cpp(357,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab5 - Hash tables\main.cpp(357,51): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Lab5 - Hash tables.vcxproj -> D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab5 - Hash tables\x64\Debug\Lab5 - Hash tables.exe

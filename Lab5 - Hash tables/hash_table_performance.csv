@@ -1,0 +1,6 @@
+Filling factor,Avg. Effort found,Max. Effort found,Avg. Effort not-found,Max. Effort not-found
+0.8,2.068,48,10.3147,61
+0.85,2.63,65,16.6707,77
+0.9,3.22067,81,25.0673,120
+0.95,4.14733,90,39.3313,199
+0.99,6.23867,175,115.703,647
