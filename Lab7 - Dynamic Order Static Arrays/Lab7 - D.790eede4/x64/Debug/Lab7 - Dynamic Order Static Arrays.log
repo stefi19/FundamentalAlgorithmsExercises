@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab7 - Dynamic Order Static Arrays\main.cpp(187,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab7 - Dynamic Order Static Arrays\main.cpp(204,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab7 - Dynamic Order Static Arrays\main.cpp(251,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab7 - Dynamic Order Static Arrays\main.cpp(238,9): warning C4101: 't': unreferenced local variable
+  Lab7 - Dynamic Order Static Arrays.vcxproj -> D:\Facultate\Year2\Sem1\Fundamental Algorithms\Labs\Assignments\code\Lab7 - Dynamic Order Static Arrays\x64\Debug\Lab7 - Dynamic Order Static Arrays.exe
